@@ -47,7 +47,8 @@ Distribuído sob a licença GNU. Veja o arquivo `LICENSE` para mais informaçõe
 ## Contato
 
 Otavio Alfenas - [@otavioalfenas](https://br.linkedin.com/in/otavio-alfenas)
-Email - otavioalfenas@hotmail.com
+
+E-mail - otavioalfenas@hotmail.com
 
 [contributors-shield]: https://img.shields.io/github/contributors/otavioalfenas/RespireFundo.svg?style=flat-square
 [contributors-url]: https://github.com/otavioalfenas/RespireFundo/graphs/contributors
