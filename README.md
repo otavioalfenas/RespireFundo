@@ -27,8 +27,7 @@ Toda evolução, melhorias, sugestões serão sempre bem-vindas.
 O Molde da estrutura foi feito pela FRAX3D. 
 Estrutura impressa na Impressora 3D (Agradecimento a MAKITLAB pela impressão).
 
-
-[contributors-shield]: https://img.shields.io/github.com/otavioalfenas/RespireFundo/graphs/contributors/RespireFundo.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/otavioalfenas/RespireFundo/graphs/contributors/RespireFundo.svg?style=flat-square
 [contributors-url]: https://github.com/otavioalfenas/RespireFundo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/otavioalfenas/RespireFundo.svg?style=flat-square
 [forks-url]: https://https://github.com/otavioalfenas/RespireFundo/network/members
