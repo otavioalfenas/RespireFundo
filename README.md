@@ -27,7 +27,7 @@ Toda evolução, melhorias, sugestões serão sempre bem-vindas.
 * Fios para as ligações;
 
 O Molde da estrutura foi feito pela FRAX3D. 
-Estrutura impressa na Impressora 3D (Agradecimento a MAKITLAB pela impressão).
+Estrutura impressa na Impressora 3D (Obrigado a MAKITLAB pela impressão).
 
 [contributors-shield]: https://img.shields.io/github/contributors/otavioalfenas/RespireFundo.svg?style=flat-square
 [contributors-url]: https://github.com/otavioalfenas/RespireFundo/graphs/contributors
