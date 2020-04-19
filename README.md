@@ -29,16 +29,16 @@ Toda evolução, melhorias, sugestões serão sempre bem-vindas.
 O Molde da estrutura foi feito pela FRAX3D. 
 Estrutura impressa na Impressora 3D (Obrigado a MAKITLAB pela impressão).
 
-## Contruibuição
+## Contribuição
 
 Você pode contribuir para o com a projeto sempre que quiser, qualquer dica sugestão ou ajuste serão sempre bem vindos.
 Abaixo um passo a passo de como deve proceder para subir sua atualização:
 
-1. Fork the Project
-2. Crie sua Feature Branch (`git checkout -b branch/Exemplo`)
-3. Commit suas alterações (`git commit -m 'Inserir mensagem da alteração efetuada'`)
-4. Envie para a sua Branch (`git push origin branch/Exemplo`)
-5. Abra um Pull Request
+1. Fork the Project;
+2. Crie sua Feature Branch (`git checkout -b branch/Exemplo`);
+3. Commit suas alterações (`git commit -m 'Inserir mensagem da alteração efetuada'`);
+4. Envie para a sua Branch (`git push origin branch/Exemplo`);
+5. Abra um Pull Request;
 
 ## Licenças
 
@@ -46,9 +46,9 @@ Distribuído sob a licença GNU. Veja o arquivo `LICENSE` para mais informaçõe
 
 ## Contato
 
-Otavio Alfenas - [@otavioalfenas](https://br.linkedin.com/in/otavio-alfenas)
+Otavio Alfenas: [@otavioalfenas](https://br.linkedin.com/in/otavio-alfenas)
 
-E-mail - otavioalfenas@hotmail.com
+E-mail: otavioalfenas@hotmail.com
 
 [contributors-shield]: https://img.shields.io/github/contributors/otavioalfenas/RespireFundo.svg?style=flat-square
 [contributors-url]: https://github.com/otavioalfenas/RespireFundo/graphs/contributors
