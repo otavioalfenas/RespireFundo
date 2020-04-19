@@ -4,7 +4,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# RespireFundo
+# Respire Fundo
+
+![/Fontes/respiradorAutomatizado.jfif]
 Em meio a pandemia do COVID-19, iniciei este projeto com intuito de ajudar as pessoas fazendo um respirador de baixo custo e que seja funcional.
 A ideia é transformar um respirador manual e um respirador automatizado, que simule uma pessoa fazendo seu trabalho.
 Sou iniciante com esta tecnologia e linguagem, então este é um prototipo inicial, e podemos melhorarmos juntos.
