@@ -12,6 +12,8 @@ A ideia é transformar um respirador manual e um respirador automatizado, que si
 Sou iniciante com esta tecnologia e linguagem, então este é um prototipo inicial, e podemos melhorarmos juntos.
 Toda evolução, melhorias, sugestões serão sempre bem-vindas.
 
+**Imagens do Projeto:** https://drive.google.com/drive/folders/1kjLcgzDmBk0xN08ZMM27GaHxhy9rKBv7?usp=sharing
+
 **Peças utilizadas:**
 * 1 – Arduino UNO R3;
 * 1 – Protoboard;
